@@ -5,7 +5,7 @@
     "Beépített, titkosított alkalmazáson belüli frissítés.",
     "A frissítési jelszó első megadás után Android Keystore védelemmel kerül tárolásra."
   ],
-  "apkUrl": "https://raw.githubusercontent.com/mmartin1995/TrainingApp-Updates/main/releases/edzesnaplo-v1.2.enc",
-  "sha256": "acc85664286ca924c7e0a11ce3f6cc39246b5e0b40e4e87f11bc317a4e3f2382",
+  "apkUrl": "https://raw.githubusercontent.com/mmartin1995/TrainingApp-Updates/main/latest.apk.enc",
+  "sha256": "9a8decc15fa9d44ad432002e701d8509878f94ffad9906e840d350a0042f9397",
   "published": true
 }
