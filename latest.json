@@ -1,11 +1,11 @@
 {
-  "versionCode": 26,
-  "versionName": "1.25",
+  "versionCode": 27,
+  "versionName": "1.26",
   "releaseNotes": [
     "Beépített, titkosított alkalmazáson belüli frissítés.",
     "A frissítési jelszó első megadás után Android Keystore védelemmel kerül tárolásra."
   ],
-  "apkUrl": "https://raw.githubusercontent.com/mmartin1995/TrainingApp-Updates/main/releases/edzesnaplo-v1.25.enc",
-  "sha256": "c8b640b61c3065d171805aa99e9955f1625f25e1ee801d62453eea3b2a160a11",
+  "apkUrl": "https://raw.githubusercontent.com/mmartin1995/TrainingApp-Updates/main/releases/edzesnaplo-v1.26.enc",
+  "sha256": "a1cb646166e26ec7041c3b647b9a6da2a0b227696cdc2c7e0dca62d5e14d1b7d",
   "published": true
 }
