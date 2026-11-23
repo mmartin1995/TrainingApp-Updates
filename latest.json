@@ -1,11 +1,11 @@
 {
-  "versionCode": 40,
-  "versionName": "1.39",
+  "versionCode": 41,
+  "versionName": "1.40",
   "releaseNotes": [
     "Beépített, titkosított alkalmazáson belüli frissítés.",
     "A frissítési jelszó első megadás után Android Keystore védelemmel kerül tárolásra."
   ],
-  "apkUrl": "https://raw.githubusercontent.com/mmartin1995/TrainingApp-Updates/main/releases/edzesnaplo-v1.39.enc",
-  "sha256": "cfee34a1a42da3f4d058fae2d9e5cd7b313f2426b1256b1d6ef6f58bd3e33554",
+  "apkUrl": "https://raw.githubusercontent.com/mmartin1995/TrainingApp-Updates/main/releases/edzesnaplo-v1.40.enc",
+  "sha256": "e99f5a5e0fa8a87c21c6a84c207d1e100edd93eedd5afca1243586221916d028",
   "published": true
 }
