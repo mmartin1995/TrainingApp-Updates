@@ -1,11 +1,11 @@
 {
-  "versionCode": 18,
-  "versionName": "1.17",
+  "versionCode": 19,
+  "versionName": "1.18",
   "releaseNotes": [
     "Beépített, titkosított alkalmazáson belüli frissítés.",
     "A frissítési jelszó első megadás után Android Keystore védelemmel kerül tárolásra."
   ],
   "apkUrl": "https://raw.githubusercontent.com/mmartin1995/TrainingApp-Updates/main/latest.apk.enc",
-  "sha256": "1dd1a50363570cb16b05e0bec8e78717a1a745d226876d46df15086fd2219591",
+  "sha256": "5ce87ae4745eb412f1aecff90e5f00cb36d258fa521959549a3f93b9e8505ef5",
   "published": true
 }
